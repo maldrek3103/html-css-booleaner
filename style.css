@@ -28,9 +28,14 @@ figcaption{
 span{
     background-color: #ffff00;
 }
+ul{
+    padding-left: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 table{
-table-layout: fixed;
-width: 100%;
+    table-layout: fixed;
+    width: 100%;
 }
 th{
     text-align: left;
