@@ -21,3 +21,13 @@ a{
 figcaption{
     font-size: 12px;
 }
+span{
+    background-color: #ffff00;
+}
+
+th{
+    background-color: #20a9e5;
+}
+.table-color{
+    background-color: #b1e5f2;
+}
