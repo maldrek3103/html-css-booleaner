@@ -45,6 +45,7 @@ ul{
     margin-bottom: 50px;
 }
 table{
+    border-collapse: collapse;
     table-layout: fixed;
     width: 100%;
 }
