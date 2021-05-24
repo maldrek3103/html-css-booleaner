@@ -11,10 +11,13 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
-p{
+.sub-title{
     color: #808080;
 }
 a{
     text-decoration: none;
     color: #38b2e8;
+}
+figcaption{
+    font-size: 12px;
 }
