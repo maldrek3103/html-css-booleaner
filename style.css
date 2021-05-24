@@ -1,13 +1,20 @@
 .bg-header{
-    height: 150px;
+    height: 100px;
     background-image: url(./img/pattern.png);
     background-color: #4ea0ff;
 }
 .logo-header{
-    width: 300px;
-    height: 150px;
+    width: 200px;
+    height: 100px;
     background-image: url(./img/logo.svg);
     background-position: bottom left;
     background-repeat: no-repeat;
     background-size: contain;
+}
+p{
+    color: #808080;
+}
+a{
+    text-decoration: none;
+    color: #38b2e8;
 }
