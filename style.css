@@ -4,19 +4,27 @@ body{
 }
 .bg-header{
     height: 100px;
+    position: relative;
     background-image: url(./img/pattern.png);
     background-color: #4ea0ff;
 }
 .logo-header{
     width: 200px;
     height: 100px;
+    position: absolute;
+    top: 40px;
+    left: 10px;
     background-image: url(./img/logo.svg);
-    background-position: bottom left;
     background-repeat: no-repeat;
     background-size: contain;
 }
+h1{
+    margin-bottom: 0;
+}
 .sub-title{
     color: #808080;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 a{
     text-decoration: none;
