@@ -64,14 +64,22 @@ h4{
     background-repeat: no-repeat;
 }
 .ads-1{
-    width: 311px;
-    height: 207px;
+    font-size: large;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
     background-image: url(./img/monitor.jpg);
     margin-bottom: 10px;
 }
 .ads-2{
-    width: 311px;
-    height: 207px;
+    font-size: large;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
     background-image: url(./img/graph.jpg);
     margin-bottom: 10px;
 }
