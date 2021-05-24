@@ -1,3 +1,4 @@
+
 .bg-header{
     height: 100px;
     background-image: url(./img/pattern.png);
@@ -24,8 +25,12 @@ figcaption{
 span{
     background-color: #ffff00;
 }
-
+table{
+table-layout: fixed;
+width: 100%;
+}
 th{
+    text-align: left;
     color: #ffffff;
     background-color: #20a9e5;
 }
